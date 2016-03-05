@@ -9,7 +9,7 @@
 ## Photos
 + [Unsplash](https://unsplash.com/)
 
-## Colour
+## Colours
 
 + [CSS Gradients](http://tabiku.com/)
 + [UI Gradients](http://uigradients.com/)
