@@ -13,4 +13,3 @@
 
 + [CSS Gradients](http://tabiku.com/)
 + [UI Gradients](http://uigradients.com/)# front-end-resources
-Collection of helpful resources for the front end developers.
