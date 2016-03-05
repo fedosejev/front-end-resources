@@ -12,4 +12,4 @@
 ## Colour
 
 + [CSS Gradients](http://tabiku.com/)
-+ [UI Gradients](http://uigradients.com/)# front-end-resources
++ [UI Gradients](http://uigradients.com/)
