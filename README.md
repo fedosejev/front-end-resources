@@ -1,4 +1,4 @@
-# Resources
+# Free Front End Resources
 
 ## Icons
 + [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
