@@ -6,6 +6,7 @@
 + [Icons8](https://icons8.com)
 + [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
 + [Material Icons](https://design.google.com/icons)
++ [Flat color icons](https://icons8.github.io/flat-color-icons/)
 
 ## Fonts
 + [Google Fonts](https://www.google.com/fonts)
